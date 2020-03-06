@@ -1,6 +1,6 @@
 {
   "name": "knight-react-pdf",
-  "version": "0.01",
+  "version": "0.0.1",
   "description": "react pdf",
   "main": "dist/app.js",
   "scripts": {
